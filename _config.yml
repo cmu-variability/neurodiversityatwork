@@ -21,7 +21,7 @@
 name: Southern Great Lakes Neurodiversity at Work Regional Hub
 title: Southern Great Lakes Neurodiversity at Work Regional Hub
 url: http://cmu-variability.github.io/neurodiversityatwork
-domain: cmu-variability.github.io
+domain: cmu-variability.github.io/neurodiversityatwork
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
