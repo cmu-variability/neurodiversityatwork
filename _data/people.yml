@@ -1,0 +1,43 @@
+prof-begel:
+    display_name: "Andrew Begel"
+    webpage: "https://andrewbegel.com"
+    github: abegel
+    image: /img/people/abegel.png
+    role: organizers
+    bio: Professor
+
+pm-karen-krainz-edison:
+    display_name: "Karen Krainz Edison"
+    role: organizers
+    bio: Program Manager
+    org: Ohio State University
+    webpage: https://nisonger.osu.edu/staff/krainz-edison-karen/
+    image: img/people/karen-krainz-edison.jpg
+
+
+pm-amy-tavares:
+    display_name: "Amy Tavares"
+    role: service-providers
+    bio: Neurodiversity Program Manager
+    org: Carnegie Mellon University
+    webpage: https://www.linkedin.com/in/amy-tavares-1620/
+    image: img/people/amy-tavares.jpg
+
+
+
+collaborator-hala-annabi:
+   display_name: "Hala Annabi"
+   role: collab
+   bio: Professor
+   org: University of Washington at Seattle
+   webpage: https://ischool.uw.edu/people/faculty/profile/hpannabi
+   image: /img/people/annabi.jpg
+
+collaborator-kathy-dow-burger:
+   display_name: "Kathryn Dow-Burger"
+   role: collab
+   bio: Clinical Associate Professor
+   org: University of Maryland at College Park
+   webpage: "https://hesp.umd.edu/facultyprofile/dow-burger/kathy"
+   image: /img/people/dow-burger.jpg
+   
