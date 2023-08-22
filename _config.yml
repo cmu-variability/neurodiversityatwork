@@ -60,9 +60,9 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /#people
+    link: /neurodiversityatwork/#people
   - title: Projects
-    link: /projects.html
+    link: /neurodiversityatwork/projects.html
 
 
 #- title: Code
