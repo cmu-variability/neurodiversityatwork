@@ -58,7 +58,7 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Home
-    link: /
+    link: /neurodiversityatwork
   - title: People
     link: /neurodiversityatwork/#people
   - title: Projects
