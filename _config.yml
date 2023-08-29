@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Southern Great Lakes Neurodiversity at Work Regional Hub
-title: Southern Great Lakes Neurodiversity at Work Regional Hub
+name: Southern Great Lakes Region Neurodiversity at Work Hub
+title: Southern Great Lakes Region Neurodiversity at Work Hub
 url: http://cmu-variability.github.io/neurodiversityatwork
 domain: cmu-variability.github.io/neurodiversityatwork
 
