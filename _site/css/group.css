@@ -28,7 +28,7 @@ figure { padding-bottom: 1.5em; }
 .jumbotron { text-align: justify; padding-top: 1.5em; padding-bottom: 0.5em; font-size: 125%; }
 
 /* Group logo */
-#logo { width: 200px; height: 98px; margin: 2px 0 8px 0; }
+#logo { width: 100px; height: 49px; margin: 2px 0 8px 0; }
 
 /* Front page news. */
 ul.news .date { color: #999; font-weight: bold; }
