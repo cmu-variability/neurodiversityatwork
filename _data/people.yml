@@ -12,7 +12,7 @@ pm-karen-krainz-edison:
     bio: Program Manager
     org: Ohio State University
     webpage: https://nisonger.osu.edu/staff/krainz-edison-karen/
-    image: img/people/karen-krainz-edison.png
+    image: /img/people/karen-krainz-edison.png
 
 
 pm-amy-tavares:
@@ -21,12 +21,12 @@ pm-amy-tavares:
     bio: Neurodiversity Program Manager
     org: Carnegie Mellon University
     webpage: https://www.linkedin.com/in/amy-tavares-1620/
-    image: img/people/amy-tavares.jpg
+    image: /img/people/amy-tavares.jpg
 
 employer-jpmc:
     display_name: "JP Morgan Chase & Co"
     role: employers
-    image: img/people/jpmc-logo.jpg
+    image: /img/people/jpmc-logo.jpg
 
 collaborator-jeff-cowgill:
     display_name: "Jeff Cowgill"
@@ -34,7 +34,7 @@ collaborator-jeff-cowgill:
     bio: Vice President
     org: JP Morgan Chase & Co
     webpage: https://www.linkedin.com/in/jeff-cowgill-5534bb124/
-    image: img/people/jeff-cowgill.jpg
+    image: /img/people/jeff-cowgill.jpg
 
 collaborator-hala-annabi:
    display_name: "Hala Annabi"
