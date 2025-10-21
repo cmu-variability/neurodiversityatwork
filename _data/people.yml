@@ -51,4 +51,12 @@ collaborator-kathy-dow-burger:
    org: University of Maryland at College Park
    webpage: "https://hesp.umd.edu/facultyprofile/dow-burger/kathy"
    image: /img/people/dow-burger.jpg
+
+collaborator-ryan-palm:
+    display_name: "Ryan Palm"
+    role: collab
+    bio: Executive Director 
+    org: Brad McGarry Center for Neurodiversity
+    webpage: https://www.mercyhurst.edu/faculty/ryan-palm
+    image: /img/people/ryan-palm.jpg
    
